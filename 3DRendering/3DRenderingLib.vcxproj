@@ -81,11 +81,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source\common.cpp" />
+    <ClCompile Include="source\xdDevice.cpp" />
     <ClCompile Include="source\xdMatrix.cpp" />
     <ClCompile Include="source\xdVector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\common.h" />
+    <ClInclude Include="source\singleton.h" />
+    <ClInclude Include="source\xdDevice.h" />
     <ClInclude Include="source\xdMatrix.h" />
     <ClInclude Include="source\xdVector.h" />
   </ItemGroup>

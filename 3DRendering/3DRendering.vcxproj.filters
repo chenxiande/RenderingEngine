@@ -18,5 +18,13 @@
     <ClCompile Include="source\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="source\RenderPrimitive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\RenderPrimitive.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

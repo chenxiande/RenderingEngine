@@ -12,6 +12,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source\main.cpp" />
+    <ClCompile Include="source\RenderPrimitive.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\RenderPrimitive.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{9A12E969-EDFA-4AC1-8857-DE7127DE8259}</ProjectGuid>

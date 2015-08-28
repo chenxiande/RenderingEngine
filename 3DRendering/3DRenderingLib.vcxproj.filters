@@ -21,6 +21,9 @@
     <ClCompile Include="source\xdMatrix.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="source\xdDevice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\xdVector.h">
@@ -30,6 +33,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="source\xdMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="source\xdDevice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="source\singleton.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
